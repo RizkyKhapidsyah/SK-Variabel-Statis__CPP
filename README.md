@@ -1,5 +1,5 @@
 # SK-Variabel-Statis__CPP
-Bahan Ajar Fundamental Pemrograman C++ - Studi Kasus; Variabel Statis<br>br>
+Bahan Ajar Fundamental Pemrograman C++ - Studi Kasus; Variabel Statis<br><br>
 Variabel Statis dapat berupa variabel local atau variabel eksternal Sifat variabel statis ini mempunyai sifat antar lain.<br>
 • Jika variabel statis bersifat local, maka variabel hanya dikenal oleh fungsi tempat variabel dideklarasikan.<br>
 • Jika variabel statis bersifat eksternal, maka variabel dapat dipergunakan oleh semua fungsi yang terletak pada file yang sama ditempat variabel statis dideklarasikan.<br>
